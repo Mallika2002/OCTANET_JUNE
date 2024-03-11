@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "65cde8e42beeb9e6d9a94695"
+  },
+  "password": "qwsd",
+  "dob": "1111-11-11",
+  "location": {
+    "latitude": 17.7537024,
+    "longitude": 83.2569344,
+    "address": "Tenneti Nagar, Marripalem, Visakhapatnam, విశాఖపట్నం (పట్టణ), విశాఖపట్నం, Andhra Pradesh, 530001, India"
+  },
+  "trips": [
+    "Pakisthan",
+    "Brazil",
+    "Colombo",
+    "Congo",
+    "Hyderabad",
+    "Goa",
+    "Hongkong",
+    "Ohio",
+    "India",
+    "Delhi",
+    "Bhutan",
+    "Bali"
+  ],
+  "username": "admin",
+  "birthday": "Dec 12, 2002",
+  "name": "Mallika Swetha",
+  "email": "mallikaswetha2002@gmail.com",
+  "gender": "female"
+},
+{
+  "_id": {
+    "$oid": "65ce3a03bf07d4cec2a38664"
+  },
+  "username": "admin2",
+  "password": "awsd",
+  "dob": "2023-02-23",
+  "location": {
+    "latitude": 17.7426072,
+    "longitude": 83.2529396,
+    "address": "Parvathi Nagar, Marripalem, Visakhapatnam, విశాఖపట్నం (పట్టణ), విశాఖపట్నం, Andhra Pradesh, 530001, India"
+  },
+  "trips": [
+    "Mysore",
+    "Bangkok",
+    "Delhi",
+    "Japan",
+    "Korea"
+  ],
+  "email": "mallikaswetha2002@gmail.com",
+  "name": "Mallika Swetha"
+},
+{
+  "_id": {
+    "$oid": "65ce56b86f3b6f589f9bfc88"
+  },
+  "username": "mallika",
+  "password": "swetha",
+  "dob": "2003-07-26",
+  "location": {
+    "latitude": 17.7537024,
+    "longitude": 83.2569344,
+    "address": "Tenneti Nagar, Marripalem, Visakhapatnam, విశాఖపట్నం (పట్టణ), విశాఖపట్నం, Andhra Pradesh, 530001, India"
+  },
+  "trips": [
+    "Goa",
+    "Gujarat",
+    "Hyderabad",
+    "Delhi"
+  ],
+  "bio": null,
+  "birthday": null,
+  "email": null,
+  "gender": null,
+  "name": null,
+  "phone": null
+},
+{
+  "_id": {
+    "$oid": "65d9c3e3f7c168be3a9bea95"
+  },
+  "username": "abcd",
+  "password": "egfg",
+  "dob": "2011-11-11",
+  "location": {
+    "latitude": 17.7426319,
+    "longitude": 83.2530047,
+    "address": "Parvathi Nagar, Marripalem, Visakhapatnam, విశాఖపట్నం (పట్టణ), విశాఖపట్నం, Andhra Pradesh, 530001, India"
+  },
+  "trips": [
+    "Goa",
+    "Gujarat",
+    "Hyderabad",
+    "Indore"
+  ]
+}]
